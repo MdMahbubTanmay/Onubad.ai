@@ -11,6 +11,21 @@ Current machine translation often feels "mechanical." We are fine-tuning the mod
 - **Natural Fluency:** Prioritizing *Cholitobhasha* and idiomatic expressions.
 - **Contextual Diversity:** Ensuring the model understands different levels of formality (Apni/Tumi/Tui).
 
+## 🥹 Examples
+
+* English :<br>
+Irshad builds worlds through a coder’s design,<br>
+Where logic and syntax in harmony shine.<br>
+But the heart’s deepest script is a different art,<br>
+With Lamia’s love as the beat of his heart;<br>
+Two souls intertwined, in a bond most divine.
+
+* Bangla : <br> 
+এরশাদ গড়েন জগত কোডিংয়ের ভাষায়,<br> 
+যুক্তি আর বিন্যাস যেখানে মেশে এক আশায়।<br> 
+তবে হৃদয়ের শ্রেষ্ঠ স্ক্রিপ্ট এক অন্য শিল্পকলা,<br> 
+লামিয়ার ভালোবাসায় যেখানে জুড়ায় মনের জ্বালা;<br> 
+দুই প্রাণ আজ এক সুরে, স্বর্গীয় এক বাঁধন মেলায়।<br> 
 
 
 ## 🛠️ Tech Stack
